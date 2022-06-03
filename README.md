@@ -10,6 +10,8 @@ Backend written by Django
 
 ## Prerequisites
 
+Split the terminal:
+
 For running Frontend, run the following commands:
 
     - cd frontend/
