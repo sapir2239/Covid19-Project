@@ -5,7 +5,7 @@ from citizens in order to prioritise COVID-19 vaccination.
 
 This project is separated to 2 parts: 
 - Frontend written by Reactjs, HTML, CSS
-- Backend written by Django
+- Backend written by Redux, Django & Postgres
 
 
 ## Prerequisites
