@@ -10,12 +10,16 @@ Backend written by Django
 
 ## Prerequisites
 
-For running Frontend:
+For running Frontend, run the following commands:
 
-    - cd Frontend/
-    
+    - cd frontend/
     - npm install
-    
     - npm start
+    
+
+For running Backend, run the following commands:
+
+    - cd backend/
+    - python3 manage.py runserver
 
 
