@@ -13,7 +13,9 @@ Backend written by Django
 For running Frontend:
 
     - cd Frontend/
+    
     - npm install
+    
     - npm start
 
 
