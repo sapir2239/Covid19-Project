@@ -8,7 +8,9 @@ Eventually, i know how to write backend from previous projects so it's pretty si
 Tutorial: VS Code
 
 Installations: 
-  React - I was mostly helped by this site: https://react-bootstrap.github.io/
-  Django - https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+ - React - I was mostly helped by this site: https://react-bootstrap.github.io/
+ - Django - https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+ - Redux - https://pypi.org/project/django-redux/
+ - Mostly https://stackoverflow.com/
   
  
