@@ -4,6 +4,7 @@ In this exercise we needed to use Django and i had never used it.
 I was looking for guides in Google, and i found a few videos in this channel in Youtube: https://www.youtube.com/c/TraversyMedia/videos
 that helped me understand what's Django and how can i use it.
 Eventually, i know how to write backend from previous projects so it's pretty similar, but it was interesting to learn about Django.
+I've also read about Redux and decieded to use in this app, it was more comfortable and arranged to work with it and i also learned about a new pattern and library.
 
 Tutorial: VS Code
 
